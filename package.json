@@ -1,0 +1,23 @@
+{
+  "name": "burlang_bot",
+  "version": "1.0.0",
+  "description": "telegram bot for sefl-education",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/b-nimaev/burlang_bot.git"
+  },
+  "keywords": [
+    "buryat-language",
+    "telegram",
+    "bot\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C",
+    "telegram",
+    "bot",
+    "buryat"
+  ],
+  "author": "alexandrbnimaev",
+  "license": "ISC"
+}
